@@ -1,0 +1,19 @@
+---------------------------Ticket Details------------------------------------------
+      TicketID	        Name	    Flight Number	       Destination
+	0	|	Srinivasa	|	ST105	|	Bangalore	|
+	1	|	Srinivasa	|	ST105	|	Bangalore	|
+	2	|	Veena	|	ST105	|	Bangalore	|
+	3	|	Srinivasa	|	ST105	|	Bengaluru	|
+	4	|	Srinvasa	|	TS105	|	Bengaluru	|
+	4	|	Srinivasa	|	TS105	|	Bengaluru	|
+	4	|	Srinivasa	|	ST105	|	Bengaluru	|
+	1	|	fefea	|	fewf	|	fewf	|
+	2	|	fewfw	|	efwaf	|	fewegf	|
+	4	|	Srinivasa	|	ST105	|	Bengaluru	|
+		|		|		|		|
+		|		|		|		|
+	123	|	Ayush	|	12345	|	Bangalore	|
+	1	|	thanmayee	|	123	|	hubli	|
+	1234	|	thanmaye	|	123456	|	mysore	|
+	12345	|	thanmayee	|	AB12	|	bangalore	|
+	123	|	mittu	|	123	|	kadapa	|

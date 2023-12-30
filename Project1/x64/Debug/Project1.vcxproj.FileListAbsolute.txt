@@ -1,0 +1,14 @@
+C:\Users\new\Downloads\FS-LAB-MINI-PROJECT-master\Project1\x64\Debug\Project1.vcxproj.AssemblyReference.cache
+C:\Users\new\Downloads\FS-LAB-MINI-PROJECT-master\Project1\x64\Debug\Project1.vcxproj.SuggestedBindingRedirects.cache
+C:\Users\new\Downloads\FS-LAB-MINI-PROJECT-master\Project1\x64\Debug\Project1.Details.resources
+C:\Users\new\Downloads\FS-LAB-MINI-PROJECT-master\Project1\x64\Debug\Project1.MyForm.resources
+C:\Users\new\Downloads\FS-LAB-MINI-PROJECT-master\Project1\x64\Debug\Project1.MyForm1.resources
+C:\Users\new\Downloads\FS-LAB-MINI-PROJECT-master\Project1\x64\Debug\Project1.MyForm2.resources
+C:\Users\new\Downloads\FS-LAB-MINI-PROJECT-master\Project1\x64\Debug\Project1.vcxproj.GenerateResource.cache
+D:\airlines\FS-LAB-MINI-PROJECT-master\Project1\x64\Debug\Project1.vcxproj.AssemblyReference.cache
+D:\airlines\FS-LAB-MINI-PROJECT-master\Project1\x64\Debug\Project1.vcxproj.SuggestedBindingRedirects.cache
+D:\airlines\FS-LAB-MINI-PROJECT-master\Project1\x64\Debug\Project1.Details.resources
+D:\airlines\FS-LAB-MINI-PROJECT-master\Project1\x64\Debug\Project1.MyForm.resources
+D:\airlines\FS-LAB-MINI-PROJECT-master\Project1\x64\Debug\Project1.MyForm1.resources
+D:\airlines\FS-LAB-MINI-PROJECT-master\Project1\x64\Debug\Project1.MyForm2.resources
+D:\airlines\FS-LAB-MINI-PROJECT-master\Project1\x64\Debug\Project1.vcxproj.GenerateResource.cache

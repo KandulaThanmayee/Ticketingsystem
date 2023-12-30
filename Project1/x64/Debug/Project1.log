@@ -1,0 +1,6 @@
+﻿  MyForm.cpp
+D:\airlines\FS-LAB-MINI-PROJECT-master\Project1\MyForm.h(5,9): error C2006: '#include': expected "FILENAME" or <FILENAME>
+D:\airlines\FS-LAB-MINI-PROJECT-master\Project1\MyForm.h(5,9): fatal error C1083: Cannot open include file: '': No such file or directory
+  MyForm1.cpp
+D:\airlines\FS-LAB-MINI-PROJECT-master\Project1\MyForm1.h(322,4): error C2059: syntax error: 'this'
+  Generating Code...
