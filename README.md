@@ -1,0 +1,1 @@
+A C++/CLI Windows Forms application featuring a GUI for managing and searching B-tree data. The system supports ticket confirmations and structured data handling with custom B-tree logic. It integrates forms for input/display and uses OOP with file-based data interaction.
